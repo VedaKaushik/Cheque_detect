@@ -1,0 +1,8 @@
+
+path: D:\Cheque Detection\data_multi_bank_cheque
+train: images\train
+val: images\val
+
+# Classes
+names:
+  0: signature
